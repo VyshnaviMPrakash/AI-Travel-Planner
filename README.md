@@ -81,5 +81,3 @@ This project helps students plan trips based on destination, budget, number of d
 The AI Travel Planner for Students demonstrates how artificial intelligence and location-based services can be combined to build a practical and affordable travel solution for students. This project highlights the real-world application of AI in solving everyday problems.
 
 ---
-Vyshnavi M Prakash  
-MSc Environmental Science – Environmental Data Science
